@@ -24,7 +24,7 @@
 <a href="https://pandas.pydata.org/docs/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/> </a> 
 <a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://docs.docker.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-<a href="https://pytorch.org/docs/stable/index.html" target="_blank"> <img src=https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+<a href="https://pytorch.org/docs/stable/index.html" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 <a href="https://docs.microsoft.com/en-us/azure/developer/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
   
 
